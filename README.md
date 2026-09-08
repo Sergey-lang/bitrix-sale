@@ -48,3 +48,15 @@ php -l bitrix/templates/.default/components/bitrix/news.list/promo_cards/result_
 php -l bitrix/templates/.default/components/bitrix/news.list/promo_cards/template.php
 php -l bitrix/templates/.default/components/bitrix/news.list/promo_cards/lib/promo-card-data.php
 ```
+
+## Визуальный preview без Bitrix
+
+Если полноценного Bitrix-сайта нет, откройте `preview.html` в браузере из корня репозитория. Файл использует тот же `style.css` и содержит тестовые карточки для проверки сетки, бейджей, изображения и адаптивности.
+
+Для запуска через локальный HTTP-сервер:
+
+```bash
+python3 -m http.server 8080
+```
+
+После этого откройте <http://localhost:8080/preview.html>.

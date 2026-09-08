@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+    <title id="title">Подарок к покупке</title>
+    <rect width="800" height="450" fill="#f2d8b3"/>
+    <rect x="255" y="155" width="290" height="180" rx="12" fill="#d64a42"/>
+    <rect x="385" y="155" width="30" height="180" fill="#f8e4a7"/>
+    <rect x="220" y="125" width="360" height="45" rx="10" fill="#b93c3b"/>
+    <path d="M400 126c-45-92-145-22-77 18 30 18 77 2 77 2s47 16 77-2c68-40-32-110-77-18Z" fill="#f8e4a7"/>
+    <text x="60" y="385" fill="#713331" font-family="Arial, sans-serif" font-size="40" font-weight="700">ПОДАРОК</text>
+</svg>
