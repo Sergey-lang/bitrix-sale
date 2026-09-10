@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../bitrix/templates/.default/components/bitrix/news.list/promo_cards/lib/promo-card-data.php';
+require_once __DIR__ . '/../local/templates/.default/components/bitrix/news.list/promo_cards/lib/promo-card-data.php';
 
 function assertSameValue($expected, $actual, $message)
 {
